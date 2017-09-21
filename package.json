@@ -1,0 +1,27 @@
+{
+  "name": "unit-tests",
+  "version": "1.0.0",
+  "description": "Unit test course by Saulo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "unit",
+    "test",
+    "unit-test",
+    "jasmine",
+    "karma"
+  ],
+  "author": "Ivan Sanchez",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-core": "^2.8.0",
+    "karma": "^1.7.1",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-coverage": "^1.1.1",
+    "karma-jasmine": "^1.1.0",
+    "karma-nyan-reporter": "^0.2.5",
+    "karma-verbose-reporter": "0.0.6"
+  }
+}
